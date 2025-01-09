@@ -11,6 +11,8 @@ Desafio DIO para explorar maneiras de utilizar prompts para transformar dados de
 
 # Objetivos
 - [ x ] Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] Transformar dados de vendas em informações relevantes para o fabricante
-- [ ] Quais são os produtos mais populares em cada país
-- [ ] Como otimizar o processo de transporte e logística até o momento da venda
+- [ x ] Transformar dados de vendas em informações relevantes para o fabricante
+- [ x ] Quais são os produtos mais populares em cada país
+- [ x ] Como otimizar o processo de transporte e logística até o momento da venda
+
+> **Obrigado pela visita!**
